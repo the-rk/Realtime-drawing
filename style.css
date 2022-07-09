@@ -1,0 +1,27 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.note{
+    font-size: 15px;
+    color: black;
+    white-space: pre-line;
+}
+.copyright{
+    float: right;
+    position: fixed;
+    color: blue;
+    background-color: orange;
+    box-shadow: 5px 5px 5px grey;
+    bottom: 0px;
+    font-weight: bold;
+    font-style: italic;
+}
+canvas{
+    border: 5px solid grey;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+    background-color: aqua;
+}
